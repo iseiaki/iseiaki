@@ -6,7 +6,7 @@
 
 ![hi-hello](https://media.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif)
 
-<b><h2>Technologies I have an experience in</h2></b>
+<b><h2>Technologies I have an experience in ^^</h2></b>
 <div class="flex-container">
 <img src="https://i.ibb.co/qD05LPK/Screenshot-1.png" width="60" height="60">
 <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" width="60" height="60">
