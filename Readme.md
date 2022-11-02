@@ -27,7 +27,7 @@
 </div><br>
 <h2>Social networks</h2>
 <li>Twitter - https://twitter.com/dailydoseofbc</li>
-<li>Instagram - https://www.instagram.com/defined.null/</li>
+<li>Instagram - https://www.instagram.com/iseiaki/</li>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 <li>https://w3schools.com</li>
