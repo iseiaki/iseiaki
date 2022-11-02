@@ -35,7 +35,7 @@
 <li>https://tutorialspoint.com</li>
 <li>https://coursera.org</li>
 <li>https://udemy.com</li>
-<li>https://geeksforgeeks.com</li>
+<li>https://geeksforgeeks.org</li>
 <li>https://stackoverflow.com</li>
 <li>https://freecodecamp.org</li>
 <li>https://youtube.com</li><br>
