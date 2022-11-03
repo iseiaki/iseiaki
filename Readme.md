@@ -42,9 +42,9 @@
 <div>
 <h2>My certificates</h2>
 <li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li> <li>Google (Crash course on Python)</li><br>
-<a href="https://www.freecodecamp.org/certification/Mirian/javascript-algorithms-and-data-structures"><img src="https://i.postimg.cc/x1W9x8MT/Screenshot-1.png" width="300"></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/KWG4ZPUC6SHS"><img src="https://i.ibb.co/DrhPjm6/Screenshot-6.png" width="300"></a>
-<a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="300"></a><br>
+<a href="https://www.freecodecamp.org/certification/Mirian/javascript-algorithms-and-data-structures"><img src="https://i.postimg.cc/x1W9x8MT/Screenshot-1.png" width="250"></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/KWG4ZPUC6SHS"><img src="https://i.ibb.co/DrhPjm6/Screenshot-6.png" width="247"></a>
+<a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="250"></a><br>
  <h2>My GitHub projects</h2>
  <li>PHPKalakuri</li>
 <p>Just a casual georgian restaurant/cafe website that was built in 3-4 days using HTML, CSS, JS only (done for experience)<br>
