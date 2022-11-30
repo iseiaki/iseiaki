@@ -1,10 +1,10 @@
 <h2> Hi, I’m Mirian 👇</h2>
 <li>👀 interested in high level Programming languages, as well as Blockchain technology</li>
-<li>🌱 currently learning Python </li>
+<li>🌱 currently learning Solidity </li>
 <li>🚀 Crypto enthusiastic looking for partnerships with web3 communities</li>
-<li>💞️ looking to collaborate on interesting projects, <b> feel free to dm me </b></li> <br>
+<li>💞️ looking to collaborate on interesting projects, <b> feel free to dm me on Instagram / Twitter </b></li> <br>
 
-![hi-hello](https://media.tenor.com/c4cx59tZFTkAAAAC/baymax-hello.gif)
+![hi-hello](https://media.tenor.com/_HPofCxgZcAAAAAC/mr-robot-elliot-alderson.gif)
 
 <b><h2>Technologies I have an experience in ^^</h2></b>
 <div class="flex-container">
@@ -18,7 +18,7 @@
 <img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
 <img src="https://i.postimg.cc/tgkrtz8C/logo-mysql-26353.png" width="60" height="60">
 <img src="https://i.ibb.co/gyRyp36/1200px-Electron-Software-Framework-Logo-svg.png" width="60" height="60">
-<img src="https://camo.githubusercontent.com/c8bfe60ac8e0ba7e41112c96dee3c05376ef21bd2770f6b901c51431f8875ce2/68747470733a2f2f692e6962622e636f2f48725730504a672f52656163742e706e67" width="60" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60" height="55">
 </div>
 <br>
 <b><h2>Code editors I use</h2></b>
@@ -27,9 +27,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width="60" height="60">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div><br>
-<h2>Social networks</h2>
+<h2>Social network profiles</h2>
 <li>Twitter - https://twitter.com/dailydoseofbc</li>
 <li>Instagram - https://www.instagram.com/iseiaki/</li>
+<li>LinkedIn - https://shorturl.at/rFHIQ</li>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 <li>https://w3schools.com</li>
