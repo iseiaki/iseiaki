@@ -17,6 +17,7 @@
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
 <img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
 <img src="https://i.postimg.cc/tgkrtz8C/logo-mysql-26353.png" width="60" height="60">
+<img src="https://i.ibb.co/gyRyp36/1200px-Electron-Software-Framework-Logo-svg.png" width="60" height="60">
 <img src="https://camo.githubusercontent.com/c8bfe60ac8e0ba7e41112c96dee3c05376ef21bd2770f6b901c51431f8875ce2/68747470733a2f2f692e6962622e636f2f48725730504a672f52656163742e706e67" width="60" height="60">
 </div>
 <br>
@@ -46,6 +47,8 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/KWG4ZPUC6SHS"><img src="https://i.ibb.co/DrhPjm6/Screenshot-6.png" width="247"></a>
 <a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="250"></a><br>
  <h2>My GitHub projects</h2>
+  <li>Tapatio - Mexican restaurant</li>
+<p>Casual restaurant website built for a client using HTML5 & CSS3 & JavaScript. <br>live deploy can be seen at - https://friendly-sprite-6e031c.netlify.app<br>
  <li>PHPKalakuri</li>
 <p>Just a casual georgian restaurant/cafe website that was built in 3-4 days using HTML, CSS, JS only (done for experience)<br>
   <li>Scandiweb</li>
