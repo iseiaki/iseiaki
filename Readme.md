@@ -43,8 +43,9 @@
 <li>https://youtube.com</li><br>
 <div>
 <h2>My certificates</h2>
-<li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li> <li>Google (Crash course on Python)</li><br>
+<li>FreeCodeCamp (JavaScript Algorithms and Data Structures)</li> <li>FreeCodeCamp (Responsive Web Design)</li><li>New York University (Introduction To Cyber Attacks) </li> <li>Google (Crash course on Python)</li><br>
 <a href="https://www.freecodecamp.org/certification/Mirian/javascript-algorithms-and-data-structures"><img src="https://i.postimg.cc/x1W9x8MT/Screenshot-1.png" width="250"></a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/ZLE5HBWDMSTS"><img src="https://i.ibb.co/0Q7ZL7v/image-2022-12-08-141234575.png" width="248"></a>
 <a href="https://www.coursera.org/account/accomplishments/verify/KWG4ZPUC6SHS"><img src="https://i.ibb.co/DrhPjm6/Screenshot-6.png" width="247"></a>
 <a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="250"></a><br>
  <h2>My GitHub projects</h2>
