@@ -50,6 +50,8 @@
  <h2>My GitHub projects</h2>
   <li>Tapatio - Mexican restaurant</li>
 <p>Casual restaurant website built for a client using HTML5 & CSS3 & JavaScript. <br>live deploy can be seen at - https://friendly-sprite-6e031c.netlify.app<br>
+   <li>Calculator - Neumorphic design</li>
+<p>Simple Calculator built just for fun using HTML5 & CSS3 & JavaScript. <br>live deploy can be seen at - https://iridescent-pegasus-091897.netlify.app<br>
  <li>PHPKalakuri</li>
 <p>Just a casual georgian restaurant/cafe website that was built in 3-4 days using HTML, CSS, JS only (done for experience)<br>
   <li>Scandiweb</li>
