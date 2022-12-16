@@ -58,7 +58,7 @@
   <li>Scandiweb</li>
 <p>This was a test website that I had to make in order to apply for Scandiweb Junior position, at that time requirements looked like a lot to me so its still pretty much unfinished, although structure of the website is completed. <br>
   <li>Portfolio website</li>
-<p>I always liked neumorphic designs on website, so decided to make something different and came up with using it on my personal portfolio website. I'm satisfied with results.<br>
+<p>I always liked neumorphic designs on website, so decided to make something different and came up with using it on my personal portfolio website. I'm satisfied with results. <br> Live deploy can be seen at - https://prismatic-snickerdoodle-d570dd.netlify.app<br>
   <li>Fantasy</li>
 <p>Python script named fantasy, created out of boredom. This script is turned into .exe using py-to-exe dependency and it basically annoys user by popping up a small text box that eventually opens the song Never Gonna Give You Up by Rick Astley<br>
   <li>Phpecommerce</li>
