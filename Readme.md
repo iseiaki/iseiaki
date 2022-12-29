@@ -1,6 +1,6 @@
 <h2> Hi, I’m Mirian 👇</h2>
 <li>👀 interested in high level Programming languages, as well as Blockchain technology</li>
-<li>🌱 currently learning Solidity </li>
+<li>🌱 currently learning Go </li>
 <li>🚀 Crypto enthusiastic looking for partnerships with web3 communities</li>
 <li>💞️ looking to collaborate on interesting projects, <b> feel free to dm me on Instagram / Twitter </b></li> <br>
 
