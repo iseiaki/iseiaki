@@ -17,6 +17,7 @@
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="60" height="60">
 <img src="https://www.klaasnienhuis.nl/wp/wp-content/uploads/2014/01/Git-Logo-2Color-770x321.jpg" width="60" height="60">
 <img src="https://i.postimg.cc/tgkrtz8C/logo-mysql-26353.png" width="60" height="60">
+ <img src="https://i.ibb.co/wQZvc5Z/image.png" width="60" height="60">
 <img src="https://i.ibb.co/gyRyp36/1200px-Electron-Software-Framework-Logo-svg.png" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="60" height="55">
 </div>
