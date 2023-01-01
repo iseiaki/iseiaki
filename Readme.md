@@ -29,9 +29,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8N8KE4y18dx83gLr5jvbjuFJ4RNBR8tPxOAU-4mvtPQ1sVu9scJMRTeGF3Z-Gyaj7ow&usqp=CAU" width="60" height="60">
 </div><br>
 <h2>Social network profiles</h2>
-<li>Twitter - https://twitter.com/dailydoseofbc</li>
+<li>Twitter - https://twitter.com/golangtwt</li>
 <li>Instagram - https://www.instagram.com/iseiaki/</li>
-<li>LinkedIn - https://shorturl.at/rFHIQ</li>
 <br>
 <b><h2>Websites/Tutorials I have used frequently during my journey in this field</h2></b>
 <li>https://w3schools.com</li>
