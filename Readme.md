@@ -50,6 +50,8 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/KWG4ZPUC6SHS"><img src="https://i.ibb.co/DrhPjm6/Screenshot-6.png" width="247"></a>
 <a href="https://www.freecodecamp.org/certification/Mirian/responsive-web-design"><img src="https://i.postimg.cc/pdcVfCC4/Screenshot-4.png" width="250"></a><br>
  <h2>My GitHub projects</h2>
+ <li>Golang 365 days</li>
+ <p>Golang 365 days is a challenge I gave to myself at the start of 2023. Every day will build something valuable with Golang and update my repository on github</p>
  <li>Encrypt -  Encryption / Decryption</li>
  <p>Built an app called Encrypt that allows you to Encrypt / Decrypt certain text (Was originally created using Electron.js but f*ed up some node files so now it's web based) Used - HTML5, CSS3, JavaScript. Might add Media encryption / decryption later </p> 
   <li>Tapatio - Mexican restaurant</li>
